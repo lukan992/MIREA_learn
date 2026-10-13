@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.12.10.39"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\Users\KiVi\Desktop\LAB1KRBO0123\Logical\"
+  TempDirectory="C:\Users\KiVi\Desktop\LAB1KRBO0123\Temp\"
+  AutomationStudioVersion="4.12.10.39"
+  AutomationStudioEdition="Standard"
+  BuildCrossReference="false"
+  ActiveConfiguration="Config1"
+  CreateAnsiCDeclarations="false" />
